@@ -1,0 +1,95 @@
+.sign-up-link {
+  padding: 10px 12px;
+  background-color: red;
+  border-radius: 10px;
+  &:hover {
+    text-decoration: none;
+    background-color: gray;
+    transition: ease-in-out 0.5s;
+  }
+}
+
+.login-box {
+  background-color: red;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+}
+.wrapper-search {
+  padding: 20px 200px;
+}
+.wrapper-difficulty {
+  padding: 0px 100px;
+}
+.text-size {
+  font-size: 15px;
+}
+.sign-up-wrapper {
+  padding: 40px 450px;
+  background-color: whitesmoke;
+}
+.sign-up-form {
+  background-color: white;
+}
+.btn {
+  height: 40px;
+}
+.blue-color {
+  color: hsl(204, 87%, 42%);
+  font-style: italic;
+}
+.size {
+  font-size: 14px;
+}
+.italic {
+  font-style: italic;
+}
+.full-width {
+  width: 100%;
+}
+.button-wrapper {
+  padding: 0px 450px;
+}
+.background {
+  background-color: hsl(204, 87%, 42%);
+  color: white;
+}
+.size-big {
+  font-size: 18px;
+}
+.card-link {
+  border: hsl(204, 87%, 42%) solid 2px;
+  color: hsl(204, 87%, 42%);
+  padding: 5px 0px;
+  padding-left: 120px;
+  border-radius: 10px;
+  &:hover {
+    background-color: hsl(204, 87%, 42%);
+    color: white;
+    transition: ease-in-out 0.5s;
+  }
+}
+.card-button {
+  background-color: hsl(204, 87%, 42%);
+  color: white;
+  padding-left: 100px;
+}
+
+.marginFooter {
+  margin-top: 450px;
+}
+.size-lg {
+  font-size: 22px;
+}
+.upload {
+  visibility: hidden;
+}
+.style {
+  color: hsl(204, 87%, 42%);
+}
+.size-huge {
+  font-size: 35px;
+}
+.alert-height {
+  min-height: 100px;
+}
